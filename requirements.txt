@@ -9,6 +9,7 @@ chatterbot-corpus
 colorama
 freegames
 spacy
+cssselect
 requests
 lxml
 beautifulsoup4
